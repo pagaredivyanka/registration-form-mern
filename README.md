@@ -1,2 +1,3 @@
 # MERN-Stack
-projects usign #Mongodb, Express.js, React.js, Node.js 
+projects using Mongodb, Express.js, React.js, Node.js 
+1. crude operations - registration form 
